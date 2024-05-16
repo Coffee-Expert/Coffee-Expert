@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Coffee-Expert/Coffee-Expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
         <h1>☕ Welcome to the Journey of Coffee-Expert!</h1>
     </header>
     <div class="container" style="max-width: 800px; margin: 20px auto; background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-        <p> 😄 Hey there! I'm Abhishek Kevin Gomes, but you can call me Coffee-Expert. Just like brewing a perfect cup of coffee, I'm on a mission to craft flawless code in App, Web and beyond. </p> 
+        <p> 😄 Hey there! I'm <b> Abhishek Kevin Gomes </b>, but you can call me Coffee-Expert. Just like brewing a perfect cup of coffee, I'm on a mission to craft flawless code in App, Web and beyond. </p> 
         <p> Join me in this caffeinated coding adventure where every line of code is as rich and satisfying as a freshly brewed espresso! ☕</p>
         <img align="center" alt="Coding" width="1000" src="https://github.com/yourusername/yourusername/blob/main/coffee.gif?raw=true">
         <h2>☕ Connect with Me</h2>
@@ -54,8 +53,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 # ☕ GitHub Espresso Shots
-![](https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Expert&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-Expert&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Expert&theme=radical&hide_border=false)<br/>
 
 ---
 
