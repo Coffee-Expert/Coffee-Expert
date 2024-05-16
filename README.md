@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header style="background-color: #007acc; color: white; text-align: center; padding: 20px;">
-        <h1>☕ Welcome to the Java Journey of Coffee-Expert!</h1>
+        <h1>☕ Welcome to the Journey of Coffee-Expert!</h1>
     </header>
     <div class="container" style="max-width: 800px; margin: 20px auto; background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <p> 😄 Hey there! I'm Abhishek Kevin Gomes, but you can call me Coffee-Expert. Just like brewing a perfect cup of coffee, I'm on a mission to craft flawless code in App, Web and beyond. </p> 
