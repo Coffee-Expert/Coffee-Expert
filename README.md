@@ -24,8 +24,9 @@ Here are some ideas to get you started:
         <h1>☕ Welcome to the Journey of Coffee-Expert!</h1>
     </header>
     <div class="container" style="max-width: 800px; margin: 20px auto; background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-        <p> 😄 Hey there! I'm <b> Abhishek Kevin Gomes </b>, but you can call me Coffee-Expert. I like to code in App, Web and beyond, while sipping a hot brew ofcourse ✨✨. </p> 
-        <img align="center" alt="Coding" width="1000" src="https://github.com/yourusername/yourusername/blob/main/coffee.gif?raw=true">
+        <p> 😄 Hey there! I'm <b> Abhishek Kevin Gomes </b>, but you can call me Coffee-Expert. <br>
+            I like to code in App, Web and beyond, while sipping a hot brew ofcourse ✨✨. </p> 
+        <img align="center" alt="Coding" width="550" height="350" src="https://github.com/Coffee-Expert/Coffee-Expert/blob/main/coffee_lines.gif">
         <h2>☕ Connect with Me</h2>
         <ul>
             <li>☕ Email: <a href="mailto:abhishekkevingomes@gmail.com">abhishekkevingomes@gmail.com</a></li>
