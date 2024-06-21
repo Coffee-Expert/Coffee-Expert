@@ -1,33 +1,38 @@
-
-<!--
-**Coffee-Expert/Coffee-Expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+    
+
+<p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Gomes"> </p>
+
+<a href="https://github.com/coffee-expert">
+<img  src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=A+Tech+Enthusiast+from+India.;+Seeking+new+challenges+and+opportunities+to+expand+my+skills." alt="Typing SVG" />
+</a>
+ 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+
 <body>
     <header style="background-color: #007acc; color: white; text-align: center; padding: 20px;">
-        <h1>☕ Welcome to the Journey of Coffee-Expert!</h1>
+        <h1>☕ Hey There! I'm Coffee-Expert!</h1>
     </header>
+    
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/easilyguessedid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweety" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/a-master-at-work/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="a-master-at-work"  /></a>
     <div class="container" style="max-width: 800px; margin: 20px auto; background-color: white; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
         <p> 😄 Hey there! I'm <b> Abhishek Kevin Gomes </b>, but you can call me Coffee-Expert. <br>
             I like to code in App, Web and beyond, while sipping a hot brew ofcourse ✨✨. </p> 
-        <a href="https://coffee-expert.github.io/Portfolio_kev/"><h3>My Portfolio</h3>  </a>
-        <img align="center" alt="Coding" width="550" height="350" src="https://github.com/Coffee-Expert/Coffee-Expert/blob/main/coffee_lines.gif">
+        
+
+- 🌱 I’m currently proficient in **Full-Stack Web Development.**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
         <h2>☕ Connect with Me</h2>
         <ul>
             <li>☕ Email: <a href="mailto:abhishekkevingomes@gmail.com">abhishekkevingomes@gmail.com</a></li>
@@ -62,3 +67,10 @@ Here are some ideas to get you started:
 ---
 
 ![GitHub Beans](https://komarev.com/ghpvc/?username=abhishekkevingomes&color=green)
+
+
+
+
+
+</p>
+
