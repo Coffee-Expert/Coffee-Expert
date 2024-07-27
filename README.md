@@ -35,14 +35,9 @@
 - 🌱 I’m currently proficient in **Full-Stack Web Development.** <br>
 
 - 👯 I’m looking to collaborate on **Open Source Projects** <br>
-        <h2> Connect with Me</h2>
-        <ul>
-            <li> Email: <a href="mailto:abhishekkevingomes@gmail.com">abhishekkevingomes@gmail.com</a></li>
-            <li> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-master-at-work/) 
-        </ul> 
-        <h2>☕ What's Brewing Next?</h2>
+        <h2>☕ What's Next?</h2>
         <p>
-         Just like a perfectly roasted coffee bean, I'm always looking for ways to brew up something new and exciting in the Java world. Let's collaborate and create code that's as smooth as a freshly poured latte! (get it?, im sorry 😅)
+         Just like a perfect coffee bean, I'm always looking for ways to brew up something new and exciting in the Java world. Let's collaborate and create code that's as smooth as a freshly poured latte! (get it?, im sorry 😅)
          Keep coding and stay percolated! ☕
         </p>
     </div>
@@ -59,7 +54,7 @@
 
 ---
 
-![GitHub Beans](https://komarev.com/ghpvc/?username=abhishekkevingomes&color=green)
+![GitHub Beans](https://komarev.com/ghpvc/?username=abhishekkevingomes&color=blue)
 
 
 
