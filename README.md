@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <h1 align="center">Kevin Gomes</h1>
-<h3 align="center">Applied AI Engineer | Full-Stack Developer | Systems Builder</h3>
+<h3 align="center">Applied AI Engineer | Developer | Youtuber</h3>
 
 <p align="center">
 Building production-grade AI systems and scalable backend architectures.
@@ -109,8 +109,8 @@ Contributed to scalable platforms including Caset and Plug.
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coffee-Expert&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coffee-Expert&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=coffee-expert&theme=github-dark&hide_border=true&short_numbers=true" height="170"/>
+<img src="https://raw.githubusercontent.com/andrekolodochka/andrekolodochka/439a8c71a6b35e9a164cdfe50af58fee214748c9/github-contribution-grid-snake.svg">
 </p>
 
 ---
