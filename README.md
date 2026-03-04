@@ -5,15 +5,15 @@
 <h1 align="center">Kevin Gomes</h1>
 <h3 align="center">Applied AI Engineer | Developer | Youtuber</h3>
 
-<p align="center">
-Building production-grade AI systems and scalable backend architectures.
+<p align="center"><a href="https://www.caset.in">Caset.in</a> | <a href="https://www.hcltech.com/">HCLTech</a>
+
 </p>
 
 ---
 
 ## About
 
-I design and engineer intelligent systems that operate reliably in production.
+I study and develop intelligent systems that help the world.
 
 My work centers on:
 - Applied Generative AI
@@ -26,15 +26,22 @@ My work centers on:
 
 ---
 
-## Experience
+## Worked as
 
-**Full-Stack Intern**  
+**Full-Stack Developer**  
 Contributed to scalable platforms including Caset and Plug.
 
 - Backend development using Django and MongoDB
 - API design and production deployments
-- AI integrations with LLM pipelines
 - Feature ownership from architecture to release
+
+**AI Engineer Trainee @HCLTech (Present)**  
+Contributing in integrating AI in HCLTech
+
+- Powering internal tools with AI using Langchain/LangGraph/LangSmith
+- Building custom POCs per client requirements
+- AI integrations with LLM pipelines
+
 
 ---
 
@@ -42,8 +49,8 @@ Contributed to scalable platforms including Caset and Plug.
 
 - AI Agents and Orchestration
 - Automation Systems
-- Backend Engineering
-- Infrastructure-Aware Development
+- Integrations
+- Communication
 - Developer Tooling
 
 ---
@@ -86,20 +93,20 @@ Contributed to scalable platforms including Caset and Plug.
 
 <div align="center">
 
-  <a href="YOUR_CREDLY_LINK_1">
-    <img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="110"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/chaseit/9F64F36BF22E848D?sharingId=3CD3A5B679DDA3F8">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110"/>
   </a>
 
-  <a href="YOUR_CREDLY_LINK_2">
-    <img src="https://images.credly.com/size/680x680/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="110"/>
+  <a href="https://learn.microsoft.com/en-gb/users/abhishekkevingomes-9077/credentials/cb0eedc05ff816ea?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="110"/>
   </a>
 
-  <a href="YOUR_CREDLY_LINK_3">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/chaseit/16FFE26FE31EB108?sharingId=3CD3A5B679DDA3F8">
     <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="110"/>
   </a>
 
-  <a href="YOUR_CREDLY_LINK_4">
-    <img src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="110"/>
+  <a href="https://www.credly.com/badges/1f842a0a-488a-4c4c-a77f-a0cf10fff030/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110"/>
   </a>
 
 </div>
