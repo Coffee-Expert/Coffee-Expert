@@ -93,14 +93,14 @@ Contributing in integrating AI in HCLTech
 
 <div align="center">
 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/chaseit/9F64F36BF22E848D?sharingId=3CD3A5B679DDA3F8">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110"/>
-  </a>
+ 
 
   <a href="https://learn.microsoft.com/en-gb/users/abhishekkevingomes-9077/credentials/cb0eedc05ff816ea?ref=https%3A%2F%2Fwww.linkedin.com%2F">
     <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="110"/>
   </a>
-
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/chaseit/9F64F36BF22E848D?sharingId=3CD3A5B679DDA3F8">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="110"/>
+  </a>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/chaseit/16FFE26FE31EB108?sharingId=3CD3A5B679DDA3F8">
     <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="110"/>
   </a>
