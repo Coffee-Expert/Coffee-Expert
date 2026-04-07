@@ -35,9 +35,9 @@ Contributed to scalable platforms including Caset and Plug.
 - API design and production deployments
 - Feature ownership from architecture to release
 
-**AI Engineer Trainee @HCLTech (Present)**  
+**AI Engineer Analyst @HCLTech (Present)**  
 Contributing in integrating AI in HCLTech
-
+- Developing and enhancing LangGraph/LangChain solutions
 - Powering internal tools with AI using Langchain/LangGraph/LangSmith
 - Building custom POCs per client requirements
 - AI integrations with LLM pipelines
